@@ -1,4 +1,4 @@
-
+import './index.css'
 import React, { useState } from 'react';
 import Card from './components/common/Card';
 import AIAssistant from './components/AIAssistant';
